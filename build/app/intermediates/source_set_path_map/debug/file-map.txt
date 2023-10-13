@@ -1,0 +1,12 @@
+com.example.ubix.app-core-1.6.0-0 C:\Users\manoh\.gradle\caches\transforms-3\46ba99fe9efa61652d55d750c2b6c036\transformed\core-1.6.0\res
+com.example.ubix.app-jetified-window-java-1.0.0-beta04-1 C:\Users\manoh\.gradle\caches\transforms-3\70d74eab8f9ca2c2a65123954666da04\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.ubix.app-jetified-window-1.0.0-beta04-2 C:\Users\manoh\.gradle\caches\transforms-3\82f218b30ba1b0bb05bf622761b8068e\transformed\jetified-window-1.0.0-beta04\res
+com.example.ubix.app-jetified-annotation-experimental-1.1.0-3 C:\Users\manoh\.gradle\caches\transforms-3\d0f5972ec434f1dda0a7cc6ca8f145d8\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.ubix.app-debug-4 C:\Users\manoh\Desktop\ubix\android\app\src\debug\res
+com.example.ubix.app-main-5 C:\Users\manoh\Desktop\ubix\android\app\src\main\res
+com.example.ubix.app-pngs-6 C:\Users\manoh\Desktop\ubix\build\app\generated\res\pngs\debug
+com.example.ubix.app-resValues-7 C:\Users\manoh\Desktop\ubix\build\app\generated\res\resValues\debug
+com.example.ubix.app-rs-8 C:\Users\manoh\Desktop\ubix\build\app\generated\res\rs\debug
+com.example.ubix.app-mergeDebugResources-9 C:\Users\manoh\Desktop\ubix\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.ubix.app-mergeDebugResources-10 C:\Users\manoh\Desktop\ubix\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.ubix.app-merged_res-11 C:\Users\manoh\Desktop\ubix\build\app\intermediates\merged_res\debug
