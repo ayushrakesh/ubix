@@ -30,7 +30,7 @@ class _MyHomePageState extends State<MyHomePage> {
     return Scaffold(
       appBar: AppBar(
         centerTitle: true,
-        title: Text('Application App'),
+        title: Text('Application Appbar'),
       ),
       body: Padding(
         padding: EdgeInsets.symmetric(
